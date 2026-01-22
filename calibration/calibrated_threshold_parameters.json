@@ -1,0 +1,17 @@
+{
+  "model": "Threshold (single contagion)",
+  "time_bin_minutes": 60,
+  "n_simulations": 10,
+  "thetas": {
+    "false": {
+      "mean": 0.049999999999999996,
+      "std": 6.938893903907228e-18,
+      "n_threads": 837
+    },
+    "unverified": {
+      "mean": 0.04999999999999999,
+      "std": 1.3877787807814457e-17,
+      "n_threads": 4526
+    }
+  }
+}
